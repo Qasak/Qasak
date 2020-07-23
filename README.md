@@ -1,2 +1,3 @@
 
-IM FUCKING COMING
+这是我的简历
+求收留
