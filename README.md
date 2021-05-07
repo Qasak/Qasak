@@ -1,8 +1,8 @@
 LALALALALA~
 
-<h1 align="left">Hi,I'm anas aka pointer <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<h1 align="left">Hi,I'm Qasak <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
                                   
-web-developer
+backend-developer
  <br>
 
 <h3 align="left">Languages and Tools :</h3>
@@ -30,6 +30,6 @@ web-developer
 
 
 -----
-Credits: [p01n73r](https://github.com/p01n73r)
+Credits: [Qasak](https://github.com/Qasak)
 
-Last Edited on: 29/04/2021
+Last Edited on: 2021/05/07
