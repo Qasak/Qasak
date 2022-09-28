@@ -12,18 +12,21 @@ backend-developer
 <a href="https://www.rust-lang.org/" target="_blank"> 
     <img src="https://rustacean.net/assets/cuddlyferris.png" alt="rust" width="40" height="40"/>
 </a> 
+ 
+<a href="https://soliditylang.org/" target="_blank"> 
+  <img src="https://blog.ethereum.org/images/posts/solidity-logo.svg" alt="solidity" width="40" height="40"/> </a> 
+</a>  
 
 <a href="https://www.java.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a> 
-
-<a href="https://www.python.org/" target="_blank"> 
-    <img src="https://banner2.cleanpng.com/20180329/vke/kisspng-python-high-level-programming-language-language-5abd4cc0d3dc94.7432282215223553928678.jpg" alt="pyhton" width="40" height="40"/>
+<a href="https://www.mysql.com/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> 
 </a> 
  
-<a href="https://www.linux.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-</a>   
+<a href="https://www.python.org/" target="_blank"> 
+    <img src="https://www.svgrepo.com/show/331553/python-package-index.svg" alt="pyhton" width="40" height="40"/>
+</a> 
 
 <a href="https://www.gnu.org/software/bash/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
