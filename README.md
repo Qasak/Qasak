@@ -1,5 +1,4 @@
-lalala
-LALALALALA~
+This person has a strong curiosity for all things interesting.
 
 <h1 align="left">Hi,I'm Qasak <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
