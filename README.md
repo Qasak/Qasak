@@ -8,7 +8,7 @@ Skilled in Rust and Java, Beginner's level in C and ASM.
 
 I built some projects in Rust:
 + [rush-png](https://github.com/Qasak/rush-png) a command line program that lets user hide secret messages in PNG files (2022)
-+  [rush-passwd](https://github.com/Qasak/rush-passwd) a high performance password finder for zip encryption algorithm (2022)
++ [rush-passwd](https://github.com/Qasak/rush-passwd) a high performance password finder for zip encryption algorithm (2022)
 + [rustudes](https://github.com/Qasak/rustudes)  rust _lite_ version of [Peter Norvig](https://norvig.com/)'s [pytudes](https://github.com/norvig/pytudes) (2022)
 
 I built [CSAPP](https://github.com/Qasak/csapp-notes-and-labs)(Computer Systems: A Programmer's Perspective) labs tutorial in C/ASM (2020)
