@@ -13,9 +13,11 @@ I built some projects in Rust:
 
 
 I am familiar with business related design patterns and DDD thinking.
+
+
 I use Java at work and also write some Python to automate some simple repetitive operations
-Data middle office at my company (2021-2022)
-Analogue circuit automation platform, there is a [similar project](https://github.com/ucb-art/BAG_framework), [another similar project](http://www.decida.org/PyDeCiDa_man_pages) at another company (2018-2019)
++ Data middle office at my company (2021-2022)
++ Analogue circuit automation platform, there is a [similar project](https://github.com/ucb-art/BAG_framework), [another similar project](http://www.decida.org/PyDeCiDa_man_pages) at another company (2018-2019)
 
 I built a algorithm tutorial for self-teach and other beginners in Java:
 [Algorithm-with-JAVA](https://github.com/Qasak/Algorithm-with-JAVA) (2020)
