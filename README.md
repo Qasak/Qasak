@@ -2,7 +2,26 @@
 
 <h1 align="left">Hi,I'm Qasak <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
-backend-developer
+backend-developer, Skilled in Rust, Java, C
+
+I built some projects in Rust:
++ [rush-png](https://github.com/Qasak/rush-png) a command line program that lets user hide secret messages in PNG files (2022)
++  [rush-passwd](https://github.com/Qasak/rush-passwd) a high performance password finder for zip encryption algorithm (2022)
++ [rustudes](https://github.com/Qasak/rustudes)  rust _lite_ version of [Peter Norvig](https://norvig.com/)'s [pytudes](https://github.com/norvig/pytudes) (2022)
+
+I built [CSAPP](https://github.com/Qasak/csapp-notes-and-labs)(Computer Systems: A Programmer's Perspective) labs tutorial in C/ASM (2020)
+
++ [data_lab](https://github.com/Qasak/all-about-csapp-labs/blob/master/datalab/README.md)  C
++ [bomb_lab](https://github.com/Qasak/all-about-csapp-labs/blob/master/bomblab/README.md) defusing binary bombs in ASM
++ [attack_lab](https://github.com/Qasak/all-about-csapp-labs/blob/master/attacklab/README.md) Code Injection, return-oriented programming in ASM
++ [TShell](https://github.com/Qasak/TShell) Implementation of functions and signal handlers that provide job control in C
+
+
+I built some algorithm tutorial for self-teach and other beginners in java:
+[Algorithm-with-JAVA](https://github.com/Qasak/Algorithm-with-JAVA) (2020)
+
+
+
  <br>
 
 <h3 align="left">Tech stacks :</h3>
