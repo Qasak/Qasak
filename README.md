@@ -11,6 +11,17 @@ I built some projects in Rust:
 + [rush-passwd](https://github.com/Qasak/rush-passwd) a high performance password finder for zip encryption algorithm (2022)
 + [rustudes](https://github.com/Qasak/rustudes)  rust _lite_ version of [Peter Norvig](https://norvig.com/)'s [pytudes](https://github.com/norvig/pytudes) (2022)
 
+
+I am familiar with business related design patterns and DDD thinking.
+I use Java at work and also write some Python to automate some simple repetitive operations
+Data middle office at my company (2021-2022)
+Analogue circuit automation platform, there is a [similar project](https://github.com/ucb-art/BAG_framework), [another similar project](http://www.decida.org/PyDeCiDa_man_pages) at another company (2018-2019)
+
+I built a algorithm tutorial for self-teach and other beginners in Java:
+[Algorithm-with-JAVA](https://github.com/Qasak/Algorithm-with-JAVA) (2020)
+
+
+
 I built [CSAPP](https://github.com/Qasak/csapp-notes-and-labs)(Computer Systems: A Programmer's Perspective) labs tutorial in C/ASM (2020)
 + [data_lab](https://github.com/Qasak/all-about-csapp-labs/blob/master/datalab/README.md)  
 + [bomb_lab](https://github.com/Qasak/all-about-csapp-labs/blob/master/bomblab/README.md) 
@@ -19,9 +30,6 @@ I built [CSAPP](https://github.com/Qasak/csapp-notes-and-labs)(Computer Systems
 
 
 
-
-I built some algorithm tutorial for self-teach and other beginners in java:
-[Algorithm-with-JAVA](https://github.com/Qasak/Algorithm-with-JAVA) (2020)
 
 
 
