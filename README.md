@@ -1,5 +1,3 @@
-code for boring😅
-
 
 
 <h1 align="left">Hi,I'm Qasak <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
