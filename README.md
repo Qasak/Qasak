@@ -2,7 +2,9 @@
 
 <h1 align="left">Hi,I'm Qasak <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
-backend-developer, Skilled in Rust, Java, C
+backend-developer, responsible for the infrastructure middleware at the previous company
+
+Skilled in Rust and Java, Beginner's level in C and ASM.
 
 I built some projects in Rust:
 + [rush-png](https://github.com/Qasak/rush-png) a command line program that lets user hide secret messages in PNG files (2022)
