@@ -28,7 +28,7 @@ I built a algorithm tutorial for self-teach and other beginners in Java/Rust:
 
 
 
-I built [CSAPP](https://github.com/Qasak/csapp-notes-and-labs)(Computer Systems: A Programmer's Perspective) labs tutorial in C/ASM (2020)
+I built [CSAPP](https://github.com/Qasak/csapp-notes-and-labs)(Computer Systems: A Programmer's Perspective) labs tutorial for self-teach and other beginners in C/ASM (2020)
 + [data_lab](https://github.com/Qasak/all-about-csapp-labs/blob/master/datalab/README.md)  
 + [bomb_lab](https://github.com/Qasak/all-about-csapp-labs/blob/master/bomblab/README.md) 
 + [attack_lab](https://github.com/Qasak/all-about-csapp-labs/blob/master/attacklab/README.md) 
