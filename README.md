@@ -22,13 +22,13 @@ I use Java at work and also write some Python to automate some simple repetitive
 	+ [Decida](http://www.decida.org/PyDeCiDa_man_pages)
 
 
-I built a algorithm tutorial for self-teach and other beginners in Java/Rust:
+I built a algorithm tutorial for self-learning and other beginners in Java/Rust:
 + [Algorithm-with-JAVA](https://github.com/Qasak/Algorithm-with-JAVA) (2020)
 + [algo-rust](https://github.com/Qasak/algo-rust) (2022)
 
 
 
-I built [CSAPP](https://github.com/Qasak/csapp-notes-and-labs)(Computer Systems: A Programmer's Perspective) labs tutorial for self-teach and other beginners in C/ASM (2020)
+I built [CSAPP](https://github.com/Qasak/csapp-notes-and-labs)(Computer Systems: A Programmer's Perspective) labs tutorial for self-learning and other beginners in C/ASM (2020)
 + [data_lab](https://github.com/Qasak/all-about-csapp-labs/blob/master/datalab/README.md)  
 + [bomb_lab](https://github.com/Qasak/all-about-csapp-labs/blob/master/bomblab/README.md) 
 + [attack_lab](https://github.com/Qasak/all-about-csapp-labs/blob/master/attacklab/README.md) 
