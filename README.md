@@ -22,9 +22,9 @@ I use Java at work and also write some Python to automate some simple repetitive
 	+ [Decida](http://www.decida.org/PyDeCiDa_man_pages)
 
 
-I built a algorithm tutorial for self-teach and other beginners in Java:
+I built a algorithm tutorial for self-teach and other beginners in Java/Rust:
 + [Algorithm-with-JAVA](https://github.com/Qasak/Algorithm-with-JAVA) (2020)
-+ and also a rust version [algo-rust](https://github.com/Qasak/algo-rust) (2022)
++ [algo-rust](https://github.com/Qasak/algo-rust) (2022)
 
 
 
