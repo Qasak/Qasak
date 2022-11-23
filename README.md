@@ -20,8 +20,8 @@ I use Java at work and also write some Python to automate some simple repetitive
 + Analogue circuit automation platform, there is a [similar project](https://github.com/ucb-art/BAG_framework), [another similar project](http://www.decida.org/PyDeCiDa_man_pages) at another company (2018-2019)
 
 I built a algorithm tutorial for self-teach and other beginners in Java:
-[Algorithm-with-JAVA](https://github.com/Qasak/Algorithm-with-JAVA) (2020)
-[rust version]([algo-rust](https://github.com/Qasak/algo-rust)) (2022)
++ [Algorithm-with-JAVA](https://github.com/Qasak/Algorithm-with-JAVA) (2020)
++ [rust version](https://github.com/Qasak/algo-rust) (2022)
 
 
 
