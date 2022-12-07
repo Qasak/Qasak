@@ -11,10 +11,6 @@ I built some projects in Rust:
 + [rush-passwd](https://github.com/Qasak/rush-passwd) a high performance password finder for zip encryption algorithm (2022)
 + [rustudes](https://github.com/Qasak/rustudes)  rust _lite_ version of [Peter Norvig](https://norvig.com/)'s [pytudes](https://github.com/norvig/pytudes) (2022-)
 
-
-I am familiar with business related design patterns and DDD thinking.
-
-
 I use Java at work and also write some Python to automate some simple repetitive operations
 + Data middle office at my company (2021-2022)
 + Analogue circuit automation platform (2018-2019). The work we have done is similar to the following projects:
